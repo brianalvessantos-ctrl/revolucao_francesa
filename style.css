@@ -1,0 +1,27 @@
+body{
+    color:black ;
+    background:rgb(28, 167, 185) ;
+    margin: 0px;
+    font-family: "Dosis", sans-serif;
+}
+
+header{
+    border-bottom: solid 2px rgb(136, 91, 136);
+    padding: 20px;
+    font-size: 32px;
+    color: azure;
+}
+
+section{
+    background: rgb(14, 212, 136);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+
+
+}
