@@ -12,8 +12,8 @@ header{
     color: azure;
 }
 
-section{
-    background: rgb(14, 212, 136);
+.chamada{
+    background: rgb(0, 238, 255);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -26,4 +26,13 @@ section{
 
 img{
     height: 200px;
+}
+.categoria-videos{
+    display; flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
 }
